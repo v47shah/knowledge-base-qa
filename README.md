@@ -60,3 +60,17 @@ streamlit run app2.py
 
 # Observe the fallback behavior when similarity is too low. (Prevents hallucinations)
 
+📁 Files
+app2.py: Main Streamlit app
+
+dla_utils2.py: Utility functions (text extraction, chunking, embeddings)
+
+requirements.txt: All dependencies
+
+README.md: You're reading it!
+
+💡 Notes
+You can use this as a base for internal enterprise search (optionally with Google Drive access).
+
+For more advanced use, integrate vector DBs like Pinecone, or switch to LangChain.
+
