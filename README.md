@@ -58,7 +58,7 @@ streamlit run app2.py
 
 # Read the extracted context and GPT-generated answer.
 
-# Observe the fallback behavior when similarity is too low. (Prevents hallucinations)
+# Observe the fallback behavior when similarity is too low. (Prevents hallucinations).
 
 📁 Files
 app2.py: Main Streamlit app
